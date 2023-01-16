@@ -8,7 +8,7 @@ function App() {
   const [array, setArray] = useState([]);
 
 
-  const getArrayToSort = () => {
+  //const getArrayToSort = () => {
 
 
 
